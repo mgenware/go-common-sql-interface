@@ -6,7 +6,7 @@ Common interfaces for `database/sql` package in Golang
 go get github.com/mgenware/go-common-sql-interface
 ```
 
-## interfaces
+## Interfaces
 ```go
 package sqldefs
 

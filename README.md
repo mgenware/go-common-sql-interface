@@ -1,5 +1,5 @@
 # go-common-sql-interface
-Common interfaces for database/sql package in Golang
+Common interfaces for `database/sql` package in Golang
 
 ## Installation
 ```sh
